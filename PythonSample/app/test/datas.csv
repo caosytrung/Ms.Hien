@@ -1,0 +1,1001 @@
+Id,City,Name,Age
+0,New York,Gege,42
+101,Havana,Gege,17
+202,Paris,BBK,62
+303,Ha Noi,Pash,96
+404,Amsterdam,Show Go,6
+505,Ha Noi,Show Go,21
+606,Seoul,Gede,91
+707,Seoul,Wilshere,23
+808,Amsterdam,Show Go,84
+909,Havana,Napom,3
+1010,Havana,BBK,95
+1111,Monaco,Pash,15
+1212,Monaco,Gede,25
+1313,Paris,BBK,58
+1414,Paris,Messi,26
+1515,Male,Trung,16
+1616,Paris,Napom,17
+1717,Seoul,Napom,69
+1818,Amsterdam,Pash,84
+1919,Havana,Hiss,32
+2020,Rome,Yaya Toure,59
+2121,Seoul,BBK,46
+2222,Berlin,Bigman,39
+2323,Monaco,Jayton,42
+2424,Paris,Dlow,39
+2525,London,Show Go,57
+2626,Male,Messi,44
+2727,Ha Noi,Wilshere,81
+2828,New York,Pash,81
+2929,Amsterdam,Gede,72
+3030,Paris,Wilshere,53
+3131,Amsterdam,Gede,37
+3232,Male,Pash,42
+3333,Berlin,Dlow,77
+3434,Madrid,Gege,8
+3535,Madrid,Bigman,20
+3636,Ha Noi,Dlow,33
+3737,Ha Noi,Gege,93
+3838,Berlin,Gede,97
+3939,Ha Noi,BBK,38
+4040,Paris,Dlow,28
+4141,Berlin,Gede,5
+4242,Havana,Gede,45
+4343,Ha Noi,Messi,73
+4444,Paris,Messi,96
+4545,London,Show Go,64
+4646,Male,Napom,42
+4747,Ha Noi,Wilshere,24
+4848,London,Hiss,61
+4949,Madrid,BBK,41
+5050,Paris,Hiss,16
+5151,Madrid,Wilshere,66
+5252,Amsterdam,Hiss,70
+5353,Monaco,Show Go,97
+5454,Havana,Hiss,49
+5555,Havana,Messi,24
+5656,Madrid,Show Go,48
+5757,Paris,Gede,19
+5858,Paris,Gege,53
+5959,Moscow,Hiss,55
+6060,New York,Messi,72
+6161,Moscow,Show Go,56
+6262,Havana,Jayton,45
+6363,Havana,BBK,92
+6464,Monaco,BBK,17
+6565,Berlin,Pash,28
+6666,London,Gede,75
+6767,Monaco,Jayton,75
+6868,Moscow,Yaya Toure,70
+6969,Rome,Gege,30
+7070,Moscow,Messi,18
+7171,Moscow,Jayton,77
+7272,New York,Gede,97
+7373,New York,Pash,77
+7474,Paris,Show Go,30
+7575,Paris,Trung,87
+7676,Moscow,Hiss,41
+7777,Berlin,Napom,98
+7878,Havana,BBK,29
+7979,Monaco,Hiss,29
+8080,Amsterdam,Pash,70
+8181,Rome,Wilshere,99
+8282,New York,Trung,91
+8383,Paris,Yaya Toure,71
+8484,Madrid,Trung,62
+8585,Moscow,Hiss,17
+8686,Havana,Napom,98
+8787,Ha Noi,Jayton,84
+8888,Rome,Show Go,26
+8989,Havana,Jayton,93
+9090,Paris,Wilshere,15
+9191,London,Pash,70
+9292,Paris,Gede,20
+9393,Rome,Wilshere,63
+9494,Amsterdam,Napom,62
+9595,Ha Noi,Gege,98
+9696,London,Gege,23
+9797,Monaco,Napom,41
+9898,Ha Noi,Gede,12
+9999,Rome,Pash,68
+10100,Madrid,Messi,44
+10201,Berlin,BBK,44
+10302,Madrid,Dlow,78
+10403,Rome,Messi,91
+10504,Seoul,Show Go,44
+10605,Berlin,Dlow,34
+10706,New York,Jayton,84
+10807,Seoul,Trung,6
+10908,Moscow,BBK,68
+11009,Berlin,Trung,71
+11110,Berlin,Hiss,38
+11211,Male,Gege,71
+11312,Amsterdam,Pash,34
+11413,Moscow,Trung,14
+11514,Monaco,Yaya Toure,77
+11615,Moscow,Wilshere,10
+11716,Moscow,Bigman,93
+11817,Berlin,Yaya Toure,90
+11918,Rome,Hiss,3
+12019,Seoul,Yaya Toure,96
+12120,Ha Noi,Bigman,10
+12221,Madrid,Jayton,91
+12322,Ha Noi,Gege,11
+12423,Amsterdam,Dlow,2
+12524,New York,Messi,5
+12625,London,Pash,6
+12726,Ha Noi,BBK,90
+12827,London,Jayton,69
+12928,Havana,Jayton,23
+13029,Male,Bigman,31
+13130,Rome,Jayton,32
+13231,Amsterdam,Trung,63
+13332,Paris,Wilshere,27
+13433,Berlin,Napom,61
+13534,Seoul,Hiss,38
+13635,Monaco,Gege,79
+13736,London,Pash,12
+13837,Seoul,Messi,5
+13938,Ha Noi,Gege,44
+14039,Berlin,Napom,86
+14140,Ha Noi,Pash,32
+14241,Rome,Show Go,62
+14342,Rome,Yaya Toure,3
+14443,Monaco,Jayton,49
+14544,Havana,Trung,26
+14645,Madrid,Napom,60
+14746,Rome,Trung,91
+14847,New York,Gege,60
+14948,Male,Jayton,66
+15049,Seoul,Trung,34
+15150,Amsterdam,Napom,25
+15251,Rome,Hiss,89
+15352,Male,Yaya Toure,77
+15453,Seoul,Napom,27
+15554,Monaco,Hiss,44
+15655,Havana,Show Go,95
+15756,Monaco,BBK,78
+15857,Ha Noi,BBK,66
+15958,London,Yaya Toure,82
+16059,Berlin,Wilshere,39
+16160,London,BBK,21
+16261,Paris,Messi,89
+16362,Ha Noi,Yaya Toure,88
+16463,Madrid,Yaya Toure,8
+16564,New York,Show Go,53
+16665,Amsterdam,Messi,59
+16766,Moscow,Napom,86
+16867,New York,Hiss,73
+16968,Moscow,Gede,29
+17069,London,Messi,77
+17170,Paris,Yaya Toure,72
+17271,Seoul,Gege,71
+17372,Amsterdam,Bigman,50
+17473,Moscow,Wilshere,59
+17574,Rome,Yaya Toure,70
+17675,Rome,BBK,62
+17776,New York,Hiss,33
+17877,Monaco,BBK,73
+17978,London,Wilshere,68
+18079,Paris,Hiss,62
+18180,Monaco,Yaya Toure,60
+18281,Rome,Pash,42
+18382,Havana,Gede,4
+18483,Monaco,Hiss,35
+18584,Rome,Wilshere,42
+18685,Seoul,Napom,12
+18786,Seoul,Wilshere,23
+18887,Rome,Wilshere,23
+18988,Amsterdam,BBK,37
+19089,Male,Yaya Toure,8
+19190,Male,Pash,41
+19291,Seoul,Trung,10
+19392,Berlin,Gede,8
+19493,Ha Noi,Napom,20
+19594,New York,Messi,37
+19695,Havana,Napom,69
+19796,Amsterdam,Wilshere,39
+19897,Amsterdam,Messi,5
+19998,Madrid,Show Go,96
+20099,London,Messi,30
+20200,Ha Noi,Dlow,64
+20301,Seoul,Bigman,73
+20402,Rome,Hiss,80
+20503,Havana,Messi,44
+20604,Monaco,BBK,83
+20705,London,Napom,73
+20806,Seoul,Gege,16
+20907,Monaco,Bigman,86
+21008,Paris,Show Go,7
+21109,Monaco,Bigman,72
+21210,Moscow,Pash,27
+21311,Havana,Bigman,48
+21412,Amsterdam,Trung,26
+21513,Moscow,Dlow,57
+21614,London,Pash,99
+21715,Rome,Yaya Toure,38
+21816,London,Gege,29
+21917,Moscow,Jayton,52
+22018,New York,Show Go,54
+22119,Amsterdam,BBK,63
+22220,London,Trung,16
+22321,Male,Show Go,52
+22422,Madrid,Gege,29
+22523,London,Napom,22
+22624,Male,Bigman,51
+22725,Amsterdam,Yaya Toure,86
+22826,Amsterdam,Wilshere,83
+22927,Seoul,Hiss,28
+23028,Monaco,Wilshere,83
+23129,Berlin,Napom,36
+23230,Madrid,Dlow,14
+23331,Male,Trung,74
+23432,New York,Gege,68
+23533,Seoul,Yaya Toure,63
+23634,Madrid,Dlow,17
+23735,Berlin,Dlow,100
+23836,Monaco,Wilshere,17
+23937,Madrid,Bigman,77
+24038,Ha Noi,Bigman,92
+24139,Paris,Show Go,7
+24240,Paris,Hiss,16
+24341,Amsterdam,Bigman,30
+24442,Monaco,Trung,61
+24543,Amsterdam,Wilshere,2
+24644,Monaco,BBK,5
+24745,Berlin,Wilshere,17
+24846,Berlin,Dlow,73
+24947,London,Gege,95
+25048,London,Gede,61
+25149,Male,Gede,44
+25250,New York,Dlow,8
+25351,London,Show Go,59
+25452,Male,Hiss,70
+25553,Paris,Yaya Toure,20
+25654,Seoul,Gede,1
+25755,Male,Messi,51
+25856,Moscow,Gede,76
+25957,Amsterdam,Show Go,89
+26058,Male,Gege,66
+26159,Monaco,Wilshere,31
+26260,Madrid,Wilshere,65
+26361,Male,Trung,73
+26462,Amsterdam,Messi,68
+26563,London,Wilshere,67
+26664,Madrid,Dlow,77
+26765,New York,Dlow,5
+26866,Rome,Wilshere,71
+26967,New York,Gede,90
+27068,Monaco,Gede,45
+27169,Berlin,Trung,39
+27270,Monaco,Trung,92
+27371,Male,Napom,22
+27472,London,Napom,50
+27573,Madrid,Pash,71
+27674,Paris,Napom,18
+27775,New York,Gede,85
+27876,Monaco,Napom,38
+27977,Monaco,Napom,54
+28078,Havana,BBK,48
+28179,Moscow,BBK,61
+28280,Moscow,Gege,26
+28381,Havana,Bigman,11
+28482,Berlin,Messi,59
+28583,Seoul,Gege,72
+28684,Amsterdam,Hiss,37
+28785,New York,Gede,99
+28886,Ha Noi,Dlow,69
+28987,Monaco,Jayton,47
+29088,Male,Yaya Toure,32
+29189,Berlin,Hiss,30
+29290,London,BBK,75
+29391,New York,Napom,57
+29492,Havana,Hiss,2
+29593,Madrid,Trung,84
+29694,Paris,Messi,74
+29795,Rome,Trung,2
+29896,Rome,Yaya Toure,31
+29997,Paris,Hiss,76
+30098,Rome,Show Go,16
+30199,Monaco,Show Go,94
+30300,Moscow,Dlow,92
+30401,New York,Gede,45
+30502,Havana,Gede,62
+30603,Madrid,Pash,77
+30704,Ha Noi,BBK,28
+30805,Seoul,Bigman,15
+30906,Havana,Show Go,58
+31007,Moscow,Yaya Toure,31
+31108,Monaco,BBK,49
+31209,London,Yaya Toure,73
+31310,Ha Noi,Show Go,52
+31411,Madrid,Napom,44
+31512,Amsterdam,Messi,42
+31613,Rome,Yaya Toure,21
+31714,Rome,Bigman,64
+31815,Amsterdam,Gege,23
+31916,New York,Hiss,24
+32017,Moscow,Show Go,86
+32118,Male,Yaya Toure,7
+32219,Havana,Trung,27
+32320,Berlin,Messi,95
+32421,Male,Gede,58
+32522,Moscow,Bigman,68
+32623,Madrid,Show Go,7
+32724,Monaco,Napom,45
+32825,Monaco,Yaya Toure,56
+32926,New York,Gede,20
+33027,London,Gege,9
+33128,Havana,Trung,50
+33229,Amsterdam,Bigman,68
+33330,Rome,Gege,90
+33431,Seoul,Yaya Toure,74
+33532,London,Show Go,82
+33633,London,Messi,95
+33734,Monaco,Gege,4
+33835,Paris,BBK,85
+33936,Monaco,BBK,89
+34037,Amsterdam,Trung,41
+34138,London,Wilshere,69
+34239,Berlin,Gege,61
+34340,Rome,Gede,34
+34441,Ha Noi,Napom,42
+34542,Berlin,Trung,55
+34643,Ha Noi,Bigman,66
+34744,Seoul,Yaya Toure,67
+34845,Berlin,Jayton,27
+34946,Moscow,Yaya Toure,31
+35047,Monaco,Hiss,80
+35148,Berlin,Messi,99
+35249,Rome,Yaya Toure,36
+35350,New York,Hiss,18
+35451,Havana,Messi,29
+35552,Paris,Show Go,76
+35653,Berlin,Show Go,75
+35754,Havana,Hiss,95
+35855,New York,Yaya Toure,29
+35956,Monaco,Wilshere,71
+36057,Moscow,Pash,40
+36158,Berlin,Gege,31
+36259,Moscow,Hiss,63
+36360,Havana,Pash,36
+36461,Ha Noi,Gege,76
+36562,London,Pash,82
+36663,Madrid,Gege,4
+36764,New York,Jayton,87
+36865,London,Messi,71
+36966,Moscow,Hiss,65
+37067,Rome,BBK,44
+37168,Amsterdam,Show Go,54
+37269,Seoul,Bigman,65
+37370,Paris,Bigman,44
+37471,New York,Jayton,89
+37572,New York,Messi,12
+37673,Havana,Jayton,84
+37774,Moscow,Show Go,21
+37875,Seoul,Napom,92
+37976,Rome,Messi,41
+38077,Havana,Gede,6
+38178,Berlin,Napom,2
+38279,London,Dlow,84
+38380,Amsterdam,Yaya Toure,57
+38481,Paris,Hiss,60
+38582,Ha Noi,Napom,69
+38683,London,Trung,98
+38784,New York,Messi,56
+38885,Male,Pash,72
+38986,Havana,Bigman,88
+39087,New York,BBK,17
+39188,London,Bigman,29
+39289,Seoul,BBK,43
+39390,Moscow,Bigman,51
+39491,Amsterdam,Napom,49
+39592,Ha Noi,Pash,62
+39693,Madrid,Gede,88
+39794,Berlin,Dlow,48
+39895,Madrid,BBK,7
+39996,Male,Bigman,80
+40097,Ha Noi,Gege,72
+40198,London,Bigman,40
+40299,Moscow,Jayton,80
+40400,Rome,Messi,9
+40501,Male,Napom,66
+40602,Madrid,Napom,16
+40703,Berlin,Messi,45
+40804,Seoul,Pash,49
+40905,Rome,Trung,64
+41006,London,Messi,83
+41107,Madrid,BBK,17
+41208,New York,Trung,38
+41309,Madrid,BBK,38
+41410,Amsterdam,Trung,5
+41511,Amsterdam,Yaya Toure,77
+41612,London,Yaya Toure,59
+41713,New York,Bigman,38
+41814,Moscow,Dlow,44
+41915,London,Jayton,11
+42016,Paris,Messi,85
+42117,Ha Noi,Hiss,32
+42218,Ha Noi,Bigman,69
+42319,Ha Noi,Jayton,37
+42420,Rome,Wilshere,32
+42521,Madrid,Napom,73
+42622,Havana,Yaya Toure,60
+42723,Berlin,Pash,93
+42824,Rome,Hiss,52
+42925,Ha Noi,Pash,98
+43026,Male,Trung,93
+43127,Madrid,Napom,26
+43228,Amsterdam,Dlow,14
+43329,Berlin,Jayton,16
+43430,Paris,BBK,78
+43531,Havana,Show Go,70
+43632,Madrid,Pash,5
+43733,Amsterdam,Wilshere,39
+43834,Moscow,Show Go,91
+43935,Berlin,Pash,99
+44036,Male,Show Go,25
+44137,Ha Noi,Messi,53
+44238,Monaco,BBK,19
+44339,Havana,Jayton,68
+44440,Berlin,Messi,54
+44541,Seoul,Messi,49
+44642,Monaco,Trung,47
+44743,Ha Noi,Dlow,94
+44844,Paris,Hiss,79
+44945,Male,Pash,51
+45046,Moscow,Trung,39
+45147,Amsterdam,Dlow,42
+45248,Monaco,Jayton,69
+45349,Monaco,Gege,66
+45450,Madrid,Dlow,34
+45551,Ha Noi,Hiss,29
+45652,Seoul,Pash,91
+45753,New York,Napom,16
+45854,London,Trung,18
+45955,Amsterdam,Bigman,85
+46056,Berlin,Hiss,81
+46157,Male,Trung,7
+46258,Madrid,Yaya Toure,19
+46359,Amsterdam,Trung,90
+46460,Rome,Wilshere,33
+46561,Ha Noi,Wilshere,13
+46662,Moscow,Hiss,39
+46763,Paris,Trung,44
+46864,New York,Bigman,100
+46965,Madrid,Wilshere,87
+47066,London,Bigman,89
+47167,Monaco,Wilshere,49
+47268,New York,Gede,27
+47369,Madrid,Yaya Toure,32
+47470,Moscow,Messi,18
+47571,Seoul,Dlow,57
+47672,Ha Noi,Yaya Toure,63
+47773,Ha Noi,Hiss,14
+47874,Moscow,BBK,31
+47975,Ha Noi,Wilshere,16
+48076,Monaco,Napom,88
+48177,Male,Hiss,19
+48278,Berlin,Yaya Toure,46
+48379,Moscow,Pash,46
+48480,Moscow,Messi,45
+48581,New York,Gede,84
+48682,Seoul,Napom,100
+48783,Ha Noi,Jayton,39
+48884,Ha Noi,Bigman,94
+48985,Seoul,BBK,54
+49086,Rome,Show Go,98
+49187,London,Trung,70
+49288,Ha Noi,Jayton,56
+49389,Monaco,Show Go,25
+49490,Male,Messi,50
+49591,Monaco,Pash,56
+49692,London,Trung,18
+49793,Madrid,Wilshere,9
+49894,Male,Jayton,81
+49995,Amsterdam,BBK,45
+50096,Amsterdam,Gege,92
+50197,New York,Napom,54
+50298,Amsterdam,Pash,9
+50399,Male,Bigman,66
+50500,Seoul,Bigman,20
+50601,Moscow,Napom,50
+50702,Berlin,Jayton,28
+50803,Amsterdam,Trung,98
+50904,Berlin,Napom,20
+51005,Paris,Wilshere,23
+51106,Male,Show Go,95
+51207,London,Gede,32
+51308,Moscow,Napom,43
+51409,London,Pash,59
+51510,Berlin,Bigman,7
+51611,Amsterdam,BBK,95
+51712,London,Wilshere,22
+51813,Amsterdam,Gege,40
+51914,Paris,Napom,39
+52015,Male,Wilshere,52
+52116,New York,Wilshere,63
+52217,Berlin,Messi,12
+52318,Moscow,Napom,90
+52419,New York,Dlow,32
+52520,New York,Show Go,95
+52621,London,Pash,63
+52722,Ha Noi,Messi,47
+52823,Havana,Trung,2
+52924,Paris,Bigman,12
+53025,Male,Gege,37
+53126,Male,BBK,21
+53227,Amsterdam,Wilshere,29
+53328,Amsterdam,Bigman,33
+53429,London,Hiss,86
+53530,Seoul,Jayton,85
+53631,Male,Hiss,80
+53732,Seoul,Yaya Toure,62
+53833,Seoul,Trung,91
+53934,Paris,Napom,36
+54035,Moscow,Bigman,37
+54136,Rome,Pash,41
+54237,Berlin,Jayton,5
+54338,Male,Wilshere,50
+54439,London,Wilshere,24
+54540,Moscow,Trung,74
+54641,Seoul,Dlow,62
+54742,Monaco,Trung,96
+54843,Madrid,Jayton,97
+54944,Monaco,Gege,12
+55045,Monaco,Dlow,43
+55146,Madrid,Wilshere,83
+55247,Ha Noi,Gede,45
+55348,Monaco,Pash,56
+55449,Male,Pash,96
+55550,Amsterdam,Messi,52
+55651,Madrid,Gede,86
+55752,Rome,Wilshere,40
+55853,Monaco,Show Go,82
+55954,Rome,Gege,51
+56055,Seoul,Show Go,65
+56156,Seoul,Napom,40
+56257,Male,Pash,12
+56358,Moscow,Dlow,88
+56459,Havana,Wilshere,15
+56560,Monaco,Wilshere,4
+56661,Seoul,Show Go,15
+56762,Seoul,Dlow,18
+56863,Rome,Dlow,41
+56964,Monaco,Yaya Toure,91
+57065,Rome,Gege,33
+57166,Seoul,Yaya Toure,65
+57267,Berlin,Trung,68
+57368,Berlin,Yaya Toure,53
+57469,New York,Messi,85
+57570,Amsterdam,Jayton,77
+57671,Berlin,Yaya Toure,43
+57772,New York,Pash,1
+57873,Seoul,Bigman,5
+57974,Moscow,Bigman,95
+58075,Rome,Messi,93
+58176,New York,Wilshere,9
+58277,Male,Jayton,43
+58378,Madrid,Gege,42
+58479,New York,Gege,31
+58580,Moscow,Gege,14
+58681,Ha Noi,Gege,68
+58782,Ha Noi,Messi,100
+58883,Havana,Gede,17
+58984,Havana,Gede,81
+59085,Havana,Show Go,40
+59186,Moscow,Pash,85
+59287,Berlin,Napom,44
+59388,Amsterdam,BBK,34
+59489,Berlin,Dlow,85
+59590,Paris,Dlow,93
+59691,New York,Yaya Toure,49
+59792,Ha Noi,Hiss,44
+59893,Ha Noi,Trung,85
+59994,Paris,Jayton,75
+60095,Ha Noi,Jayton,92
+60196,Monaco,Wilshere,6
+60297,Madrid,Messi,18
+60398,Amsterdam,Bigman,10
+60499,Monaco,Trung,98
+60600,Moscow,Wilshere,38
+60701,Male,Pash,9
+60802,Ha Noi,Jayton,60
+60903,Ha Noi,Pash,87
+61004,Male,Jayton,49
+61105,New York,Jayton,10
+61206,New York,Pash,37
+61307,Seoul,Bigman,61
+61408,Monaco,Trung,12
+61509,Amsterdam,Gede,79
+61610,Havana,Jayton,7
+61711,Havana,Dlow,40
+61812,Monaco,Yaya Toure,86
+61913,Seoul,Dlow,94
+62014,New York,Hiss,98
+62115,Monaco,BBK,92
+62216,Seoul,Trung,77
+62317,New York,Yaya Toure,23
+62418,Amsterdam,Messi,54
+62519,Rome,Trung,30
+62620,Seoul,Gege,80
+62721,Ha Noi,Jayton,42
+62822,Berlin,Wilshere,34
+62923,Havana,Yaya Toure,68
+63024,Seoul,Hiss,94
+63125,Moscow,Pash,78
+63226,Berlin,Jayton,19
+63327,Rome,Gede,41
+63428,Seoul,Wilshere,40
+63529,Paris,Yaya Toure,10
+63630,Male,Dlow,20
+63731,Havana,BBK,52
+63832,Havana,Gede,43
+63933,Berlin,Napom,69
+64034,Rome,Napom,45
+64135,Seoul,Messi,88
+64236,Male,Bigman,69
+64337,Madrid,Trung,55
+64438,Havana,Napom,54
+64539,New York,Gege,19
+64640,Monaco,Napom,54
+64741,Monaco,Hiss,67
+64842,Seoul,Wilshere,61
+64943,Havana,Gege,84
+65044,Male,Napom,94
+65145,Paris,BBK,72
+65246,Amsterdam,Gege,68
+65347,Amsterdam,Pash,12
+65448,Seoul,Dlow,66
+65549,Seoul,Wilshere,36
+65650,Monaco,Jayton,45
+65751,Male,Messi,90
+65852,Ha Noi,Wilshere,80
+65953,Ha Noi,Messi,99
+66054,Paris,Show Go,59
+66155,Moscow,Pash,15
+66256,Rome,Gede,15
+66357,Ha Noi,Trung,16
+66458,Havana,Dlow,96
+66559,Seoul,Pash,94
+66660,Seoul,Pash,6
+66761,Berlin,Bigman,54
+66862,Male,Bigman,51
+66963,Male,Wilshere,31
+67064,London,Hiss,80
+67165,Ha Noi,Hiss,49
+67266,London,Gede,16
+67367,Paris,BBK,55
+67468,Madrid,Show Go,5
+67569,Rome,Yaya Toure,98
+67670,Seoul,Wilshere,36
+67771,Seoul,BBK,61
+67872,Paris,Trung,47
+67973,Male,Trung,12
+68074,Male,BBK,95
+68175,Madrid,Napom,57
+68276,Madrid,Dlow,71
+68377,Paris,Show Go,21
+68478,Berlin,Dlow,24
+68579,Male,Napom,48
+68680,Monaco,Messi,2
+68781,Rome,Yaya Toure,17
+68882,Rome,Messi,20
+68983,Monaco,Napom,73
+69084,Madrid,Trung,67
+69185,Seoul,BBK,35
+69286,Seoul,Wilshere,32
+69387,Amsterdam,Trung,94
+69488,London,Jayton,17
+69589,Rome,Yaya Toure,61
+69690,Havana,Gege,34
+69791,Monaco,Messi,58
+69892,Paris,Trung,82
+69993,Amsterdam,Show Go,53
+70094,Ha Noi,Pash,93
+70195,Male,Show Go,73
+70296,Monaco,Pash,100
+70397,Berlin,Wilshere,92
+70498,Havana,Gede,25
+70599,Madrid,Wilshere,40
+70700,Moscow,Jayton,6
+70801,Amsterdam,BBK,20
+70902,Rome,Yaya Toure,46
+71003,Monaco,Dlow,69
+71104,Moscow,Trung,84
+71205,Amsterdam,Jayton,48
+71306,Paris,BBK,69
+71407,Berlin,BBK,79
+71508,Ha Noi,Messi,40
+71609,Seoul,Gege,3
+71710,New York,Bigman,47
+71811,New York,Jayton,27
+71912,Havana,Napom,98
+72013,Monaco,Bigman,81
+72114,Moscow,Trung,52
+72215,Monaco,Messi,89
+72316,Moscow,Pash,98
+72417,Monaco,Jayton,24
+72518,Havana,Trung,87
+72619,Seoul,Gege,72
+72720,Male,Jayton,46
+72821,Moscow,Trung,57
+72922,London,Dlow,34
+73023,Male,Trung,5
+73124,Seoul,Hiss,21
+73225,Moscow,Messi,63
+73326,Madrid,Wilshere,53
+73427,Madrid,Messi,80
+73528,Seoul,Messi,75
+73629,Amsterdam,Hiss,23
+73730,Monaco,Gege,64
+73831,New York,Bigman,23
+73932,Madrid,Jayton,55
+74033,Berlin,Hiss,84
+74134,Madrid,Wilshere,9
+74235,Ha Noi,Trung,37
+74336,Paris,Gege,96
+74437,Havana,Napom,4
+74538,Monaco,Jayton,42
+74639,London,Show Go,81
+74740,New York,Pash,2
+74841,Amsterdam,Gede,31
+74942,Berlin,Messi,54
+75043,Paris,BBK,86
+75144,Rome,Wilshere,15
+75245,Ha Noi,Wilshere,16
+75346,Madrid,Dlow,16
+75447,Ha Noi,Pash,18
+75548,Monaco,Gege,12
+75649,Havana,Messi,59
+75750,New York,Gege,54
+75851,Moscow,Gege,15
+75952,Male,Wilshere,47
+76053,Rome,Yaya Toure,81
+76154,Madrid,Gege,67
+76255,Male,Jayton,78
+76356,Havana,Yaya Toure,53
+76457,Moscow,Bigman,98
+76558,Moscow,Jayton,37
+76659,London,Pash,63
+76760,Paris,Pash,77
+76861,London,Show Go,36
+76962,Havana,Yaya Toure,51
+77063,Berlin,Yaya Toure,50
+77164,Rome,Show Go,97
+77265,Seoul,Messi,10
+77366,Ha Noi,Jayton,19
+77467,Paris,Show Go,9
+77568,Male,Jayton,20
+77669,Seoul,Gege,81
+77770,Havana,Hiss,18
+77871,Monaco,Dlow,34
+77972,Berlin,Gede,4
+78073,New York,Pash,46
+78174,Seoul,Wilshere,31
+78275,Amsterdam,Show Go,57
+78376,London,Dlow,97
+78477,New York,Yaya Toure,7
+78578,Ha Noi,Jayton,60
+78679,Moscow,Gege,44
+78780,Amsterdam,Hiss,17
+78881,Ha Noi,Yaya Toure,79
+78982,Havana,Jayton,34
+79083,London,Wilshere,47
+79184,New York,Gege,44
+79285,Rome,Dlow,36
+79386,Seoul,Show Go,87
+79487,Ha Noi,Messi,16
+79588,Paris,Gege,78
+79689,Rome,Gede,85
+79790,Rome,Bigman,94
+79891,Paris,Pash,62
+79992,Berlin,Napom,30
+80093,Madrid,Hiss,55
+80194,Madrid,Yaya Toure,27
+80295,Berlin,Gede,14
+80396,Seoul,Bigman,88
+80497,Rome,Jayton,81
+80598,Ha Noi,Show Go,20
+80699,London,Messi,76
+80800,Moscow,Gede,29
+80901,Male,Yaya Toure,10
+81002,New York,Hiss,43
+81103,Ha Noi,Gege,55
+81204,Berlin,Gege,55
+81305,Berlin,Trung,84
+81406,Madrid,Pash,7
+81507,Male,Trung,3
+81608,Moscow,BBK,92
+81709,Male,Wilshere,39
+81810,Ha Noi,Yaya Toure,10
+81911,Monaco,Jayton,33
+82012,Paris,Dlow,65
+82113,Havana,Bigman,16
+82214,Seoul,Jayton,87
+82315,Berlin,Jayton,22
+82416,Ha Noi,Messi,25
+82517,New York,Hiss,7
+82618,Ha Noi,Dlow,90
+82719,Madrid,Hiss,41
+82820,Seoul,Trung,84
+82921,Paris,Messi,66
+83022,Rome,Show Go,32
+83123,Havana,Gede,71
+83224,New York,Pash,98
+83325,Male,Yaya Toure,21
+83426,Ha Noi,Jayton,62
+83527,Moscow,Gege,12
+83628,Havana,Hiss,64
+83729,Moscow,Napom,33
+83830,Male,Jayton,76
+83931,Seoul,BBK,2
+84032,New York,Dlow,65
+84133,New York,Napom,53
+84234,Rome,Wilshere,37
+84335,Seoul,Bigman,72
+84436,New York,Gege,11
+84537,London,Pash,61
+84638,Paris,Wilshere,1
+84739,Madrid,Jayton,5
+84840,Ha Noi,Dlow,70
+84941,Havana,Bigman,58
+85042,Amsterdam,Hiss,11
+85143,Havana,Jayton,54
+85244,New York,Trung,79
+85345,Seoul,Messi,19
+85446,New York,Yaya Toure,9
+85547,Monaco,Wilshere,13
+85648,Seoul,Show Go,17
+85749,Male,Gege,28
+85850,London,Messi,30
+85951,Havana,BBK,20
+86052,New York,Gede,45
+86153,New York,Pash,39
+86254,Seoul,Pash,54
+86355,Berlin,Show Go,94
+86456,Rome,Pash,31
+86557,Ha Noi,Jayton,79
+86658,Havana,Bigman,51
+86759,Berlin,BBK,63
+86860,New York,BBK,2
+86961,Paris,Gede,60
+87062,Moscow,Wilshere,11
+87163,New York,Trung,42
+87264,Ha Noi,Pash,40
+87365,Moscow,Dlow,24
+87466,Rome,Trung,38
+87567,Male,Wilshere,23
+87668,Monaco,Messi,5
+87769,Ha Noi,Show Go,7
+87870,Moscow,Messi,93
+87971,Havana,Wilshere,84
+88072,Amsterdam,Napom,66
+88173,Amsterdam,Messi,92
+88274,London,Trung,33
+88375,Monaco,Messi,36
+88476,Moscow,Hiss,70
+88577,Paris,Gede,40
+88678,Male,Yaya Toure,68
+88779,Seoul,Wilshere,18
+88880,Ha Noi,Wilshere,89
+88981,London,Hiss,9
+89082,Rome,Jayton,31
+89183,Seoul,Gege,34
+89284,Rome,Gege,100
+89385,Madrid,Gede,14
+89486,Paris,Messi,100
+89587,Monaco,Gede,45
+89688,Havana,Show Go,7
+89789,Berlin,Show Go,47
+89890,Moscow,Jayton,58
+89991,Rome,Gede,66
+90092,Male,Gege,94
+90193,Male,Yaya Toure,61
+90294,Seoul,Show Go,85
+90395,Berlin,Wilshere,13
+90496,Rome,Yaya Toure,100
+90597,London,Trung,57
+90698,Havana,Wilshere,7
+90799,Paris,Messi,75
+90900,Moscow,Gege,7
+91001,New York,Yaya Toure,98
+91102,Madrid,Gede,45
+91203,Madrid,Jayton,92
+91304,Amsterdam,Hiss,20
+91405,Madrid,Napom,2
+91506,Moscow,Bigman,72
+91607,Male,BBK,59
+91708,Berlin,Jayton,4
+91809,Seoul,Napom,86
+91910,Seoul,Bigman,38
+92011,Amsterdam,Gede,40
+92112,Rome,BBK,10
+92213,Paris,Gede,56
+92314,Rome,Messi,34
+92415,Ha Noi,Gede,77
+92516,Madrid,Jayton,37
+92617,Male,Hiss,69
+92718,Havana,Napom,3
+92819,Paris,Show Go,63
+92920,Havana,Yaya Toure,57
+93021,London,Gede,10
+93122,Havana,Gede,90
+93223,Havana,Wilshere,52
+93324,Monaco,Trung,89
+93425,Berlin,Show Go,76
+93526,Male,Trung,4
+93627,Madrid,Dlow,67
+93728,Ha Noi,Bigman,7
+93829,Havana,Show Go,94
+93930,Male,Jayton,53
+94031,Havana,Gege,32
+94132,Paris,Trung,68
+94233,Monaco,Napom,62
+94334,Monaco,Napom,90
+94435,Seoul,Dlow,100
+94536,Monaco,Dlow,50
+94637,Berlin,Hiss,75
+94738,Madrid,Wilshere,10
+94839,Madrid,Yaya Toure,93
+94940,Havana,Napom,44
+95041,Berlin,BBK,79
+95142,Ha Noi,Pash,14
+95243,Ha Noi,Gede,14
+95344,Madrid,Messi,38
+95445,Paris,Pash,65
+95546,Seoul,Hiss,96
+95647,Amsterdam,BBK,16
+95748,London,Bigman,30
+95849,Seoul,Wilshere,80
+95950,Moscow,Pash,50
+96051,Madrid,Bigman,19
+96152,London,Gede,25
+96253,Seoul,BBK,81
+96354,Male,Show Go,91
+96455,Moscow,Trung,56
+96556,Berlin,Wilshere,96
+96657,New York,Gede,65
+96758,Madrid,Yaya Toure,85
+96859,Madrid,Napom,64
+96960,Madrid,Yaya Toure,56
+97061,Rome,Hiss,65
+97162,Berlin,Pash,95
+97263,Rome,Bigman,57
+97364,Male,Bigman,35
+97465,London,Jayton,47
+97566,Seoul,Trung,82
+97667,Amsterdam,Napom,90
+97768,Monaco,Hiss,38
+97869,Havana,Hiss,78
+97970,Amsterdam,Dlow,31
+98071,New York,Jayton,97
+98172,Madrid,Wilshere,4
+98273,Ha Noi,Gede,43
+98374,Monaco,Dlow,34
+98475,Amsterdam,Trung,82
+98576,Rome,Jayton,17
+98677,Madrid,Gege,84
+98778,Male,Pash,59
+98879,London,Dlow,41
+98980,Ha Noi,BBK,90
+99081,Seoul,Yaya Toure,61
+99182,Monaco,Messi,96
+99283,Havana,BBK,45
+99384,London,Wilshere,100
+99485,Paris,Gede,19
+99586,Paris,Jayton,80
+99687,Havana,Dlow,37
+99788,Amsterdam,Bigman,15
+99889,Paris,Messi,50
+99990,Madrid,Bigman,32
+100091,Madrid,Napom,38
+100192,New York,Gede,68
+100293,Moscow,Jayton,48
+100394,London,Messi,91
+100495,Havana,BBK,43
+100596,Amsterdam,Trung,39
+100697,Paris,Wilshere,60
+100798,Havana,Dlow,34
+100899,Monaco,Dlow,7
